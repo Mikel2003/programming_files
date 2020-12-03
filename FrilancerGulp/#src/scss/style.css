@@ -1,0 +1,18 @@
+body {
+  color: green;
+  display: flex; }
+
+span {
+  font-size: 20px; }
+  @media (max-width: 767px) {
+    span {
+      font-size: 15px; } }
+
+main {
+  background: url(../img/unnamed.jpg) no-repeat center;
+  background-size: cover; }
+  @media (max-width: 767px) {
+    main {
+      font-size: 19px; } }
+
+/*# sourceMappingURL=style.css.map */
